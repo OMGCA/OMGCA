@@ -1,4 +1,4 @@
-Last updated: 24 Sept. 2025
+Last updated: 4 Dec. 2025
 
 ## About me
 Hello, I'm Tian 'Sebastian' Xia, a.k.a. OMGCA, the alias I've been using since 2007. I'm currently working for Arashi Vision (a.k.a. Insta360), responsible for basic application experience on HarmonyOS platform. Previously I worked for Huawei, mainly focusing on the Wallpaper framework and experience of HarmonyOS NEXT, Data Communication products' OS platform and the Performance Lab in Nvidia. Alma mater University of York, BEng, MSc.
